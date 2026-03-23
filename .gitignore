@@ -1,3 +1,8 @@
+# Data and Results
+/data
+/task1_results
+/task2_results
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
