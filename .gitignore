@@ -3,6 +3,7 @@
 /task1_results
 /task2_results
 /task3_results
+/bonus_results
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
